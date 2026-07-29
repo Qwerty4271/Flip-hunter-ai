@@ -1,0 +1,12 @@
+{
+  "name": "fliphunter-ai",
+  "version": "1.0.0",
+  "description": "FlipHunter AI - Détecteur d'opportunités de revente",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
